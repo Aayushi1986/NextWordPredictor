@@ -1,0 +1,14 @@
+name: NextWord
+title: NextWord
+username:
+account: aayushisaluja
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4285443
+bundleId: 4728099
+url: https://aayushisaluja.shinyapps.io/NextWord/
+when: 1623952233.35878
+lastSyncTime: 1623952233.35878
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: back.jpg
